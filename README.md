@@ -4,6 +4,7 @@ This repository contains my first homework for learning HTML.
 In this task I practiced the most important beginner-level HTML tags and structure.
 
  What I practiced
+ 
 Text & Structure Tags
 - `<h1>`–`<h6>` — headings  
 - `<p>` — paragraph  
